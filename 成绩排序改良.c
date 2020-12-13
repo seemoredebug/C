@@ -1,7 +1,7 @@
 #include<stdio.h>
 typedef struct age
 {
-	char name[10];
+	char name[13];
 	int shuxue;
 	int wuli;
 	int huaxue;
