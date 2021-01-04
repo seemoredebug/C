@@ -19,7 +19,7 @@ struct a {
 	int n2;
 }juzhen;
 
-int main() {
+int main() { 
 	do {
 		printf("1 矩阵相加        2 矩阵相减\n");
 		printf("3 矩阵相乘        4 矩阵转置\n");
